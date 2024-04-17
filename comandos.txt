@@ -1,3 +1,4 @@
+
 ******* INICIO ********
 git init -> inicializamos un repositorio
 clear -> limpiamos consola
@@ -18,7 +19,8 @@ git add . -> agregamos todos los archivos
 git add <nombre_archivo> -> especificamos archivo
 
 git commit -m "mensaje" -> realizar un commit en Git con un mensaje de confirmación
-escapar del editor: "esc + :wq"
+git commit -> realizar un commit en Git con un mensaje de confirmación en editor de vim
+(escapar del editor: "esc + :wq")
 
 --ver historial de cambios
 git log 
